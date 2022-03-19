@@ -10,6 +10,7 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site deployed to Pages!</p>
+  
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
